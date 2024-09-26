@@ -1,5 +1,6 @@
 type: marketplace
 title: Kotlin Course v2
+summary: Este curso introduce los conceptos básicos de Kotlin, incluyendo tipos de datos, estructuras de control, funciones y programación orientada a objetos
 language: English
 programming_language: Kotlin
 content:
